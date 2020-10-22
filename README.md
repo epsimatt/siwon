@@ -3,7 +3,7 @@
 ![repo-size badge](https://img.shields.io/github/repo-size/jdeokkim/siwon)
 ![license badge](https://img.shields.io/github/license/jdeokkim/siwon)
 
-A single-header library for handling [CP949](https://en.wikipedia.org/wiki/Unified_Hangul_Code) (EUC-KR) strings.
+A single-header library for handling [CP949](https://en.wikipedia.org/wiki/Unified_Hangul_Code) (EUC-KR) strings on Windows platforms.
 
 ## Examples
 
